@@ -1,0 +1,4 @@
+	cout << "C867/-Scripting & Programming: Applications " << endl;
+	cout << "Language: C++ " << endl;
+	cout << "Student ID: 001475537 " << endl;
+	cout << "Name: Martha Weldeyesus" << endl;
